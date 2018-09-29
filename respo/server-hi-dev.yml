@@ -1,2 +1,5 @@
-foo: shiyan 更改了
+foo:
+  name: shiyan
+  sex: boy
+  age: 28
 
